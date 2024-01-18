@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Test 100</h1>
+    return <h1>Is it wet food time?</h1>
 }
 
 export default Home;
